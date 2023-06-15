@@ -7,7 +7,8 @@
         "**/*.html"
       ],
       "options": {
-        "singleQuote": false
+        "singleQuote": true,
+        "jsxSingleQuote": true
       }
     }
   ]
